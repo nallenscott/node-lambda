@@ -1,0 +1,6 @@
+{
+  "name": "node-lambda",
+  "version": "0.0.1",
+  "bin": "index.js",
+  "private": true
+}
