@@ -2,5 +2,6 @@
 *
 
 # But not these files...
+!runtime.js
 !index.js
 !package.json
