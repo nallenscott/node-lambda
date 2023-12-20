@@ -55,7 +55,7 @@ Simple examples of how to build a Node.js Lambda function and deploy it to AWS L
     aws lambda create-function \
       --function-name node-lambda-zip \
       --zip-file fileb://node-lambda.zip \
-      --handler bootstrap \
+      --handler index.handler \
       --runtime provided.al2023 \
       --role $IAM_ROLE_ARN
     ```

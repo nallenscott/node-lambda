@@ -1,6 +1,9 @@
 {
   "name": "node-lambda",
   "version": "0.0.1",
-  "bin": "index.js",
-  "private": true
+  "bin": "runtime.js",
+  "private": true,
+  "pkg": {
+    "scripts": "index.js"
+  }
 }
