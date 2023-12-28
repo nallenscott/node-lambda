@@ -3,7 +3,7 @@
   node-lambda<br>
 </h1>
 
-Simple examples of how to build a Node.js Lambda function and deploy it to AWS Lambda as a ZIP file or a scratch container image.
+Simple examples of how to build a static Node.js binary and deploy it to AWS Lambda as a ZIP file or a scratch container image.
 
 ## Prerequisites
 
